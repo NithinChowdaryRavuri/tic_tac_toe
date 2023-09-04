@@ -1,2 +1,4 @@
 # tic_tac_toe
-Just a small implementation of OOPS concepts in python.
+It's just a small implementation of OOPS concepts in Python.
+
+It's an infinite loop Tic-Tac-Toe for 2 players, you can end the game after a draw or a victory to break out of the loop.
